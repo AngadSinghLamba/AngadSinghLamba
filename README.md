@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-angadsinghlamba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angadsinghlamba](https://www.linkedin.com/in/angad-lamba-80650637)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-angadsinghlamba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angad-lamba-80650637)
 [![Gmail](https://img.shields.io/badge/Gmail-angadsinghlamba%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angadsinghlamba@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AngadSinghLamba-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngadSinghLamba)
 [![Profile Views](https://komarev.com/ghpvc/?username=AngadSinghLamba&style=for-the-badge&color=0E7C7B)](https://github.com/AngadSinghLamba)
@@ -45,7 +45,7 @@ Production multi-agent system with specialist agents for parsing, validation, an
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/aura-document-intelligence)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/dockling-document_parser)
 
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Agentic brand compliance evaluation analyzing marketing content against brand gu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![Multimodal](https://img.shields.io/badge/Multimodal-FF6B35?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/brand-genome)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/Secure-EHR-Insight-clinical-validator)
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ Open-source framework for building and deploying MCP servers with agent routing,
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/mcp-agent-orchestration)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/mcp-salesforce-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +89,7 @@ Production RAG system with hybrid search (dense + sparse), metadata filtering, r
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/rag-enterprise-pipeline)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/RAG_Project)
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ EN + Arabic content creation pipeline for the Ministry of Oman LMS with HITL QA,
 ![HITL](https://img.shields.io/badge/HITL-FF6B35?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/genai-bilingual-content-engine)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/genai-llm-ml-case-studies)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +119,7 @@ Enterprise guardrails framework covering PII detection, toxicity filtering, hall
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 
-[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/ai-governance-toolkit)
+[![Repo](https://img.shields.io/badge/GitHub-0D2137?style=flat-square&logo=github&logoColor=white)](https://github.com/AngadSinghLamba/fraud_detect_agent)
 
 </td>
 </tr>
@@ -185,26 +185,6 @@ Enterprise guardrails framework covering PII detection, toxicity filtering, hall
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AngadSinghLamba&theme=react-dark&bg_color=0D2137&color=17A8A7&line=0E7C7B&point=FF6B35&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AngadSinghLamba&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 | Certification | Issuer | Domain |
@@ -219,45 +199,3 @@ Enterprise guardrails framework covering PII detection, toxicity filtering, hall
 
 ## 🗓️ Career Timeline
 
-```
-2025 – Present  ┃  Senior Global AI Delivery Manager
-                ┃  Verticurl (WPP)
-                ┃  Agentic AI systems · LangGraph · MCP · Enterprise LLM Delivery
-                ┃
-         2023   ┃  Aura — Multi-Agent Document Intelligence
-                ┃  95% extraction accuracy · GPT-4o · Azure · LangGraph
-                ┃
-         2022   ┃  Brand Genome — AI Compliance Evaluator
-                ┃  Multimodal · Claude API · Enterprise brand governance
-                ┃
-         2021   ┃  Ministry of Oman — GenAI Bilingual LMS
-                ┃  EN + Arabic · HITL pipeline · Azure OpenAI
-                ┃
-         2020   ┃  GSK — AI/ML Market Research Platform
-                ┃  15% efficiency gain · RAG · Python · ML pipelines
-                ┃
-         2018   ┃  L'Oreal — Ecommerce AI Revamp
-                ┃  10% engagement uplift · Personalization · ML models
-                ┃
-  2010 – 2018   ┃  AI/ML & Delivery Leadership roles
-                ┃  B.Tech Computer Science · GJU
-                ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Building something ambitious with agentic AI, LLMs, or enterprise AI governance? Let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angadsinghlamba)
-[![Gmail](https://img.shields.io/badge/Email-angadsinghlamba%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angadsinghlamba@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngadSinghLamba)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C7B,100:0D2137&height=120&section=footer&animation=fadeIn" />
-
-</div>
